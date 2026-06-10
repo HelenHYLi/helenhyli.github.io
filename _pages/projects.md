@@ -1,7 +1,6 @@
 ---
 permalink: /projects/
 title: "Projects"
----
 
 sidebar:
   - title: "Title"
@@ -11,7 +10,14 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
 
-# Heading 
+toc: true #for table of contents - will generate it based on headings 
+toc_label: "Projects"
+toc_icon: "cog"
+---
+
+
+
+# "insert text for heading" - same size as title  
 Projects 
 
 <!-- ## Heading
