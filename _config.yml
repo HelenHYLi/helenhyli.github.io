@@ -74,13 +74,13 @@ author:
     #   url: "https://github.com/"
     - label: "LikedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/helenhyli"
+      url: "https://www.linkedin.com/in/helenhyli"
 
 footer:
   links:
     - label: "LikedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/helenhyli"
+      url: "https://www.linkedin.com/in/helenhyli"
 
 defaults:
   # _posts
